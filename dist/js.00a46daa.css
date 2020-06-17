@@ -64,7 +64,6 @@
   /* Distance from center where 1 is far left/far right, 0 is center */
   --distance-percent: calc((var(--distance) / var(--char-center)));
 }
-
 .splitting.cells img { width: 100%; display: block; }
 
 @supports ( display: grid ) {
@@ -121,6 +120,3 @@
   }
 }
 
-
-
-/*# sourceMappingURL=/js.00a46daa.css.map */
