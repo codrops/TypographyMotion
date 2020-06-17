@@ -1,6 +1,6 @@
 # Typography Motion Effect
 
-The demo for the tutorial on how to recreate a letter stagger animation with GSAP and Splitting.js, based on Thibaud Allie's work as seen on http://www.danimorales-style.com/.
+The demo for the tutorial on how to recreate a letter stagger animation with GSAP and Splitting.js, based on [Thibaud Allie's](https://dribbble.com/thibaudallie) work as seen on [Dani Morales](http://www.danimorales-style.com/).
 
 ![Typography Motion](https://tympanus.net/codrops/wp-content/uploads/2020/06/TypographyMotion_featured.jpg)
 
@@ -32,7 +32,7 @@ npm run build
 ## Credits
 
 - Recreation of the animation seen on http://www.danimorales-style.com/ designed by [Thibaud Allie](https://dribbble.com/thibaudallie).
-- Image by [Silviu Beniamin Tofan](https://unsplash.com/@tofansilviuben)
+- Image by [Silviu Beniamin Tofan](https://unsplash.com/@tofansilviuben) from [Unsplash.com](https://unsplash.com/)
 
 ## Misc 
 
