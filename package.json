@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html --open",
-    "clean": "rm -rf dist/*",
-    "build:parcel": "parcel build src/index.html --no-content-hash --no-minify --no-source-maps --public-url ./",
-    "build": "npm run clean && npm run build:parcel"
+    "build": "parcel build src/index.html --no-content-hash --no-minify --no-source-maps --public-url ./"
   },
   "repository": {
     "type": "git",
@@ -25,5 +23,8 @@
     "parcel-bundler": "^1.12.4",
     "splitting": "^1.0.6",
     "utils": "^0.3.1"
+  },
+  "devDependencies": {
+    "parcel-plugin-clean-dist": "^0.0.6"
   }
 }
